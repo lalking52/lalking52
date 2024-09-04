@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a studying computer science at the Higher School of Economics.
 <!--
 **lalking52/lalking52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
