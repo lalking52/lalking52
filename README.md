@@ -50,7 +50,6 @@
 
 ## 📫 Contact
 
-- 📍 Moscow, Russian Federation  
 - ✉️ [msbesekeshev@edu.hse.ru](mailto:msbesekeshev@edu.hse.ru)  
 - 🔗 [GitHub](https://github.com/lalking52)  
 
